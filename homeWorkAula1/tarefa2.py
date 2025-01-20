@@ -16,9 +16,8 @@ viagem_dest = "Russia"
 
 ''''''
 
-print("Atualmente resido em",cidade_resd,"."
-" É uma cidade no interior de Portugal, mas não nasci aqui. Contudo, sei que tenho um grande sonho: de fazer uma viagem e conhecer a",viagem_dest)
+print ("Atualmente resido em", cidade_resd,".""É uma cidade no interior de Portugal, mas não nasci aqui. Contudo, sei que tenho um grande sonho: de fazer uma viagem e conhecer a", viagem_dest,".")
 
-print("Tenho a certeza que ficaria encantada com esse país")
+print ("Tenho a certeza que ficaria encantada com esse país")
       
 
