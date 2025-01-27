@@ -5,3 +5,4 @@ biscoitos = 2.50
 doces = '10'
 
 print('O total gasto em produtos foi', str(float(biscoitos) + float(doces)) + 'R$')
+print('O total gasto em produtos foi R$' + str(float(biscoitos) + float(doces)))
