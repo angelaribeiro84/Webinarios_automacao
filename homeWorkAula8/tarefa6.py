@@ -18,10 +18,9 @@ resultado = ...
 print(...)
 Saída esperada: False'''
 
-# Preencha a lista com valores
+
 do_not_pay = [0, 1, 2, 3, 4]
-idade = int(input()) #cuidado ao copiar com as aspas, talvez dê erro
-# Atribua o teste à variável
+idade = int(input()) #
 Resultado = idade <= 5
-# Imprima o resultado
+
 print('A viagem é grátis?', bool(Resultado))
