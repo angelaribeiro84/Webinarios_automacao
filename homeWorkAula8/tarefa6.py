@@ -20,7 +20,7 @@ Saída esperada: False'''
 
 
 do_not_pay = [0, 1, 2, 3, 4]
-idade = int(input()) #
+idade = int(input())
 Resultado = idade <= 5
 
 print('A viagem é grátis?', bool(Resultado))
